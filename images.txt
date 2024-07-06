@@ -1,2 +1,2 @@
-lmk123/migpt/server
+lmk123/migpt-server
 
