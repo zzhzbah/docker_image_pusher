@@ -1,3 +1,2 @@
-nginx
-centos
-lmk123/migpt-cli
+lmk123/migpt/server
+
