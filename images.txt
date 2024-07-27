@@ -1,2 +1,2 @@
-allanpk716/ChineseSubFinder
+allanpk716/chinesesubfinder:latest
 
