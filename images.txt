@@ -1,1 +1,1 @@
-portainer/portainer
+portainer/portainer:2.21.2
