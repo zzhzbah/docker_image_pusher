@@ -1,1 +1,1 @@
-portainer/portainer:latest
+cooderl/wewe-rss-sqlite
